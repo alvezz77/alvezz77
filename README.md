@@ -1,16 +1,16 @@
-## Hi there 👋
+## SALVE👋
 
-<!--
-**alvezz77/alvezz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOMÉ: gabriel alves
 
-Here are some ideas to get you started:
+>>Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>>Estou me desenvolvendo na linguagem JavaScript
+
+>>Utilizo esse espaço para minha organização e compatilhamento dos meus projetos desenvolvidos
+
+  ## Você pode entrar em contato comigo!!
+
+  gabrielalvessilva158@gmail.com
+
+  ![](![image](https://github.com/alvezz77/alvezz77/assets/171629667/91698c06-ce3d-437b-a803-dd1e30390c55)
+
